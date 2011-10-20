@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "chipgps"
   gem.homepage = "http://github.com/dritoshi/chipgps"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Parser for the Genome Positioning System}
+  gem.description = %Q{ChIPgps is an open source Ruby library for parsing result files of the Genome Positioning System which is a software tool to study protein-DNA interaction using ChIP-Seq data.}
   gem.email = "dritoshi@gmail.com"
   gem.authors = ["Itoshi NIKAIDO"]
   # dependencies defined in Gemfile
